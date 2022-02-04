@@ -1,0 +1,144 @@
+body{
+    background-color: rgb(217, 224, 243);
+}
+.form{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-style: italic;
+    color: indigo;
+    text-align: center;
+}
+.Salutation{
+    font-size: 50px;
+    font-style: inherit;
+    color: navy;
+    text-align: left;
+}
+.head{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    
+
+}
+.links{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    size: 30px;
+}
+.poster{
+    width: 500px;
+
+}
+.headC{
+    display: flex;
+    justify-content: center;
+}
+
+.headD{
+    display: flex;
+    justify-content: center;
+}
+
+.headE{
+    display: flex;
+    justify-content: center;
+}
+
+.headF{
+    display: flex;
+    justify-content: center;
+}
+.sub{
+    display: flex;
+    justify-content: center;
+    
+}
+.subposter{
+    width: 400px;
+}
+.person{
+    color: darkgreen;
+    font-size: 30px;
+}
+.PythonDetails{
+    display: flex;
+    /*justify-content: center;*/
+}
+.WebDetails{
+    margin-top: 20px ;
+    display: flex;
+    /*justify-content: center;*/
+}
+.FlutterDetails{
+    display: flex;
+    margin-top: 20px;
+    /*justify-content: center;*/
+}
+.name{
+    font-size: 20px;
+    color: crimson;
+}
+.WebText{
+    margin-left: 20px;
+}
+.PythonText{
+    margin-left: 20px;
+}
+.FlutterText{
+    margin-left: 20px;
+}
+.linkedin:hover{
+    color: greenyellow;
+}
+.github:hover{
+    color: forestgreen;
+}
+.Recordings:hover{
+    color: darkorange;
+}
+.TinkerHub:hover{
+    color: rgb(255, 0, 34);
+}
+.Center{
+    display: flex;
+    justify-content: center;
+}
+.ab{
+    color: darkorchid;
+    margin-right: 20px;
+}
+.SJCET{
+    display: flex;
+    justify-content: center;
+}
+.Quote{
+    text-align: center;
+    font-size: 30px;
+    color: rgba(243, 16, 16, 0.774);
+    font-style: italic;
+}
+.final{
+    text-align: center;
+    color: firebrick;
+}
+@media screen and (max-width:520px) {
+    .class{
+        align-items: center;
+    
+  
+    }
+    .Center{
+        align-items: center;
+    }
+    .SJCET{
+        align-items: center;
+    }
+        
+    }
+    
+ 
